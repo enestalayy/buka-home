@@ -1,0 +1,226 @@
+{
+  "bedroom": {
+    "name": "Bedroom",
+    "description": "Create your perfect retreat with our elegant and cozy bedroom designs, offering a blend of comfort and style for a restful escape.",
+    "items": [
+      {
+        "title": "Elegant",
+        "subtitle": "Bedroom",
+        "href": "bedroom.jpeg"
+      },
+      {
+        "title": "Comfortable",
+        "subtitle": "Bedroom",
+        "href": "bedroom-1.jpeg"
+      },
+      {
+        "title": "Ambient",
+        "subtitle": "Bedroom",
+        "href": "bedroom-2.jpeg"
+      },
+      {
+        "title": "Wardrobe",
+        "subtitle": "Bedroom",
+        "href": "bedroom-3.jpeg"
+      },
+      {
+        "title": "Airy",
+        "subtitle": "Bedroom",
+        "href": "bedroom-4.jpeg"
+      },
+      {
+        "title": "Stylish",
+        "subtitle": "Bedroom",
+        "href": "bedroom-5.jpeg"
+      }
+    ]
+  },
+  "kitchen": {
+    "name": "Kitchen",
+    "description": "Transform your cooking space with our modern kitchen designs, where functionality meets style, making every meal preparation a delightful experience.",
+    "items": [
+      { "title": "Moody", "subtitle": "KITCHEN", "href": "kitchen.jpeg" },
+      { "title": "Classic", "subtitle": "KITCHEN", "href": "kitchen-1.jpeg" },
+      { "title": "Spacious", "subtitle": "KITCHEN", "href": "kitchen-2.jpeg" },
+      { "title": "Modern", "subtitle": "KITCHEN", "href": "kitchen-3.jpeg" },
+      {
+        "title": "Black & White",
+        "subtitle": "KITCHEN",
+        "href": "kitchen-4.jpeg"
+      },
+      {
+        "title": "Fit",
+        "subtitle": "KITCHEN",
+        "href": "kitchen-5.jpeg"
+      }
+    ]
+  },
+  "tv-units": {
+    "name": "TV Units",
+    "description": "Enhance your living space with our stylish and functional TV units. Designed to seamlessly blend with modern décor, these units offer sleek storage solutions and elegant finishes, providing both practicality and a touch of sophistication to your entertainment area.",
+    "items": [
+      { "title": "Sleek", "subtitle": "TV UNITS", "href": "tv-units.jpeg" },
+      { "title": "Stylish", "subtitle": "TV UNITS", "href": "tv-units-1.jpeg" },
+      { "title": "Classic", "subtitle": "TV UNITS", "href": "tv-units-2.jpeg" },
+      { "title": "Woody", "subtitle": "TV UNITS", "href": "tv-units-3.jpeg" },
+      { "title": "Elegant", "subtitle": "TV UNITS", "href": "tv-units-4.jpeg" },
+      { "title": "Modern", "subtitle": "TV UNITS", "href": "tv-units-5.jpeg" }
+    ]
+  },
+  "teen-rooms": {
+    "name": "Teen Rooms",
+    "description": "Create a vibrant and personalized space for your teenager with our trendy and versatile teen room designs. Combining functionality with style, our selections offer the perfect balance of comfort and creativity to make every teen's room a reflection of their unique personality.",
+    "items": [
+      {
+        "title": "Summer",
+        "subtitle": "Teen Rooms",
+        "href": "teen-rooms.jpeg"
+      },
+      {
+        "title": "Winter",
+        "subtitle": "Teen Rooms",
+        "href": "teen-rooms-1.jpeg"
+      },
+      {
+        "title": "Gamer",
+        "subtitle": "Teen Rooms",
+        "href": "teen-rooms-2.jpeg"
+      },
+      {
+        "title": "Modern",
+        "subtitle": "Teen Rooms",
+        "href": "teen-rooms-3.jpeg"
+      },
+      {
+        "title": "Stylish",
+        "subtitle": "Teen Rooms",
+        "href": "teen-rooms-4.jpeg"
+      },
+      {
+        "title": "Study",
+        "subtitle": "Teen Rooms",
+        "href": "teen-rooms-5.jpeg"
+      }
+    ]
+  },
+  "living-room-sets": {
+    "name": "Living Room Sets",
+    "description": "Elevate your living space with our luxurious living room sets. Combining comfort and style, these sets offer elegant designs and plush seating, perfect for relaxing and entertaining. With a range of options to suit any décor, create a welcoming and sophisticated living area for family and friends.",
+    "items": [
+      {
+        "title": "Classic",
+        "subtitle": "Lıvıng Room Sets",
+        "href": "living-room-sets.jpeg"
+      },
+      {
+        "title": "Dark",
+        "subtitle": "Lıvıng Room Sets",
+        "href": "living-room-sets-1.jpeg"
+      },
+      {
+        "title": "Light",
+        "subtitle": "Lıvıng Room Sets",
+        "href": "living-room-sets-2.jpeg"
+      },
+      {
+        "title": "Stylish",
+        "subtitle": "Lıvıng Room Sets",
+        "href": "living-room-sets-3.jpeg"
+      },
+      {
+        "title": "Elegant",
+        "subtitle": "Lıvıng Room Sets",
+        "href": "living-room-sets-4.jpeg"
+      },
+      {
+        "title": "Comfortable",
+        "subtitle": "Lıvıng Room Sets",
+        "href": "living-room-sets-5.jpeg"
+      }
+    ]
+  },
+  "beds-bases-headboards": {
+    "name": "Beds, Bases and Headboards",
+    "description": "Discover the ultimate in comfort and style with our collection of beds, bases, and headboards. Designed to enhance your bedroom's aesthetic and provide a restful night's sleep, our selection features durable bases, stylish headboards, and luxurious beds that cater to your every need. Transform your sleeping space into a haven of relaxation with our elegant and functional offerings.",
+    "items": [
+      {
+        "title": "Functional",
+        "subtitle": "Beds",
+        "href": "beds-bases-headboards.jpeg"
+      },
+      {
+        "title": "Ergonomic",
+        "subtitle": "Beds",
+        "href": "beds-bases-headboards-1.jpeg"
+      },
+      {
+        "title": "Functional",
+        "subtitle": "Bases",
+        "href": "beds-bases-headboards-2.jpeg"
+      },
+      {
+        "title": "Warm",
+        "subtitle": "Bases",
+        "href": "beds-bases-headboards-3.jpeg"
+      },
+      {
+        "title": "Modern",
+        "subtitle": "Headboards",
+        "href": "beds-bases-headboards-4.jpeg"
+      },
+      {
+        "title": "Stylish",
+        "subtitle": "Headboards",
+        "href": "beds-bases-headboards-5.jpeg"
+      }
+    ]
+  },
+  "side-tables": {
+    "name": "Side Tables",
+    "description": "Add a touch of elegance and practicality to your space with our stylish side tables. Perfect for bedside or living room use, these tables offer convenient storage and a sleek design, enhancing both functionality and décor. Choose from a variety of finishes and styles to complement your interior and keep essentials within easy reach.",
+    "items": [
+      {
+        "title": "Stylish",
+        "subtitle": "Sıde Tables",
+        "href": "side-tables.jpeg"
+      },
+      {
+        "title": "Warm",
+        "subtitle": "Sıde Tables",
+        "href": "side-tables-1.jpeg"
+      },
+      {
+        "title": "Elegant",
+        "subtitle": "Sıde Tables",
+        "href": "side-tables-2.jpeg"
+      },
+      {
+        "title": "Modern",
+        "subtitle": "Sıde Tables",
+        "href": "side-tables-3.jpeg"
+      },
+      {
+        "title": "Soft",
+        "subtitle": "Sıde Tables",
+        "href": "side-tables-4.jpeg"
+      },
+      {
+        "title": "Classic",
+        "subtitle": "Sıde Tables",
+        "href": "side-tables-5.jpeg"
+      }
+    ]
+  },
+  "sofas": {
+    "name": "Sofas",
+    "description": "Upgrade your living area with our luxurious sofas, designed for ultimate comfort and style. Featuring plush cushions and elegant designs, our sofas offer a perfect blend of functionality and aesthetics. Whether you prefer contemporary or classic styles, our collection provides a range of options to enhance your home’s comfort and appeal.",
+    "items": [
+      { "title": "Warm", "subtitle": "Sofas", "href": "sofas.jpeg" },
+      { "title": "Comfortable", "subtitle": "Sofas", "href": "sofas-1.jpeg" },
+      { "title": "Functional", "subtitle": "Sofas", "href": "sofas-2.jpeg" },
+      { "title": "Elegant", "subtitle": "Sofas", "href": "sofas-3.jpeg" },
+      { "title": "Stylish", "subtitle": "Sofas", "href": "sofas-4.jpeg" },
+      { "title": "Modern", "subtitle": "Sofas", "href": "sofas-5.jpeg" }
+    ]
+  }
+}
