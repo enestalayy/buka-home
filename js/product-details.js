@@ -13,7 +13,6 @@ document.addEventListener("DOMContentLoaded", function () {
           // Ürün bilgilerini güncelle
           document.getElementById("product-name").textContent = product.name;
           // İtem oluştur
-          console.log("products :>> ", products);
           products[productId].items.map((e) => {
             //  div
             const colDiv = document.createElement("div");

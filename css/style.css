@@ -161,6 +161,9 @@ h5,
   padding: 2.5em 0;
 }
 @media (min-width: 768px) {
+  /* #hero-social-media {
+    top: 100vh;
+  } */
   .site-section {
     padding: 5em 0;
   }
@@ -1228,9 +1231,14 @@ h5,
 Hero section
  ---------------------*/
 
+.owl-stage-outer {
+  max-height: calc(100vh - 68px);
+}
+
 .hero-section {
   position: relative;
-  height: 100vh;
+  height: calc(100vh - 68px);
+  margin-top: 68px;
 }
 
 .hs-item {
